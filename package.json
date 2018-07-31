@@ -63,7 +63,7 @@
   "dependencies": {
     "bootstrap": "^4.1.1",
     "lodash.get": "^4.4.2",
-    "lodash.startcase": "^4.4.0"
+    "lodash.startcase": "^4.4.0",
     "popper.js": "^1.12.9",
     "vue-functional-data-merge": "^2.0.5"
   },
